@@ -8,6 +8,6 @@ This is a humorous collection of sketches with Djoker person, aka [Joker film](h
 ![alt text](djoker_depression.jpg)
 ![alt text](djoker_mood.jpg)
 
-See all sketches collection in [sketches](./sketeches) folder
+See all sketches collection in [sketches](./sketches) folder
 
 ![alt text](djoker_run.jpg)
